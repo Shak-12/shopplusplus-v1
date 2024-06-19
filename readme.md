@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack.
 
-<img src="./frontend/public/images/screens.png">
+
 
 
 
