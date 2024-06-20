@@ -1,9 +1,9 @@
-
+ShopPlusPlus
 
 > eCommerce platform built with the MERN stack.
 
 
-
+![Uploading Screenshot 2024-06-03 at 6.19.36 PM.png…]()
 
 
 - [Features](#features)
